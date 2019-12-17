@@ -6,7 +6,7 @@
 
 来源于被子植物，比如毛花洋地黄等洋地黄类中药
 
-![](/Users/yuanruqian/Desktop/0df431adcbef7609743699902edda3cc7cd99efb.jpg)
+![](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=4c8d9c483912b31bd361c57be7715d1f/0df431adcbef7609743699902edda3cc7cd99efb.jpg)
 
 #### 2.CHF药物分类+代表物药+作用机制
 
@@ -28,9 +28,15 @@
 
 醛固酮作用：1⃣️ 保钠排钾 2⃣️ 促进生长作用
 
+- 引起心脏或者大血管重构 加速心衰恶化
+- 阻止心肌摄取NE 游离NE增加 诱发冠状动脉痉挛和心律失常
+- 单用效果差 与ACEI合用 降低心律失常发生率
+
 **利尿药**
 
 氢氯噻嗪
+
+- 促进钠、水排泄 减少血容量 降低心脏前负荷
 
 **$\beta$受体阻断药**
 
