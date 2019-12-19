@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9038c3-a9a8-4b67-91d5-360a69b9c07e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/药剂学复习.md" beforeDir="false" afterPath="$PROJECT_DIR$/药剂学复习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
@@ -124,15 +124,15 @@
       <workItem from="1576577582089" duration="128000" />
       <workItem from="1576588539156" duration="485000" />
       <workItem from="1576634248134" duration="651000" />
-      <workItem from="1576662846315" duration="184000" />
+      <workItem from="1576662846315" duration="886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2338000" />
+    <option name="totallyTimeSpent" value="3040000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
